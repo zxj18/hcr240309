@@ -11,6 +11,9 @@
 
 	"sites":[
 
+{"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
+
+
 {
       "key": "AList",
       "name": "AList",
