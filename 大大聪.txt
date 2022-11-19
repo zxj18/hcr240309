@@ -51,7 +51,7 @@
       "key": "zhibo9",
       "name": "🔮星河直播",
       "type": 4,
-      "api": "http://120.53.102.254/live2?url=http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0",
+      "api": "http://120.53.102.254/live2?url=https://agit.ai/hu/hcr/raw/branch/master/chao%281%29.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -80,7 +80,7 @@
       "key": "zhibo4",
       "name": "🌈星河直播TV",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:81/api/v3/file/get/59999/chao.txt?sign=MxUTj-WzZR3Nf8K1Sbdc0jbv5_UguTzDEfXoaBc5qTA%3D%3A0",
+      "api": "http://120.53.102.254/live?url=https://agit.ai/hu/hcr/raw/branch/master/chao%281%29.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
