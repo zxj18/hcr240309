@@ -229,6 +229,38 @@
             "name": "💯月光宝盒"
         },
  {
+            "name": "🏓集多1",
+            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/whdc.json"
+        },
+ {
+            "name": "🏓集多2",
+            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/whdc02.json"
+        },
+
+ {
+            "name": "🏓集观影",
+            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/观影仓.json
+"
+        },
+ {
+            "name": "🏓集秒播",
+            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/秒播仓库.json
+"
+        },
+ {
+            "name": "🏓集听书听歌",
+            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/听歌听书.json
+"
+        },
+
+ {
+            "name": "🏓集少儿",
+            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/少儿仓.json
+"
+        },
+ 
+
+ {
             "name": "🍏青苹果",
             "url": "https://s2.pub/xpg"
         },
