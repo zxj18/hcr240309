@@ -6,7 +6,7 @@
 	"sites":[
        {
       "key": "豆瓣",
-      "name": "🌍豆瓣",
+      "name": "🌏豆瓣搜索",
       "type": 3,
       "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 0,
@@ -17,7 +17,7 @@
     }, 
         {
             "key": "剧1xyq1",
-            "name": "🆘短剧—抖音",
+            "name": "👭抖音短剧",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -33,11 +33,11 @@
       "quickSearch": 1,
       "changeable": 1
     },
-{"key": "贱贱","name": "🌺┃荐片接口┃","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
+{"key": "贱贱","name": "🍉荐片接口","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 
 
                      {   "key": "csp_appys_影探",
-            "name": "🈵影探4k",
+            "name": "🐯影探4k",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -48,7 +48,7 @@
         },       
       { 
             "key": "直播转点播",
-            "name": " ︎🌸电视直播大全",
+            "name": " ︎📺️电视直播",
             "type": 3,
             "api": "https://gitee.com/ywjtv/ywjtv/raw/master/js/zbzdb.js",
             "searchable": 1,
@@ -58,7 +58,7 @@
         },
 {
       "key": "csp_WoGG",
-      "name": "🏩玩偶哥哥",
+      "name": "🕵️玩偶哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -66,24 +66,25 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
     },
+{"key": "csp_XYQHiker_‍dyx","name": "🍓宙磁高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json","jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+
 {"key": "csp_XBPQ_5V",
-  "name": "🌈CatBox专享 |4K磁力",
+  "name": "🌈4K磁力",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"}, 
-{"key": "csp_Mp4Mov","name": "🌈CatBox专享 |Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-        {"key": "csp_New6v","name": "🌈CatBox专享 |新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-        {"key":"csp_SeedHub","name":"🌈CatBox专享 |SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-        {"key":"csp_KubaCL","name":"🌈CatBox专享 |酷吧电影","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-        {"key":"csp_MeijuTT","name":"🌈CatBox专享 |美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-        {"key":"csp_MeijuMi","name":"🌈CatBox专享 |美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+{"key": "csp_Mp4Mov","name": "🌈Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+        {"key": "csp_New6v","name": "🌈新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+        {"key":"csp_SeedHub","name":"🌈SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+        {"key":"csp_KubaCL","name":"🌈酷吧电影","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+        {"key":"csp_MeijuTT","name":"🌈美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+        {"key":"csp_MeijuMi","name":"🌈美剧迷吧","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
   
 
-{"key": "csp_XBPQ_6V","name": "❤┃宝盒┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
-{"key": "csp_XYQHiker_‍dyx","name": "❤┃宙磁┃高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json","jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+{"key": "csp_XBPQ_6V","name": "🌷宝盒磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
     	
     {
       "key": "cjzy_暴风资源",
@@ -154,7 +155,7 @@
     },
     {
       "key": "Itv",
-      "name": "🍑爱QY",
+      "name": "🍑爱爱奇艺",
       "type": 3,
       "api": "csp_Itv",
       "quickSearch": 1,
