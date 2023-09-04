@@ -1,8 +1,8 @@
 ﻿{
     "urls": [
     {
-            "name": "🌹小重楼楼主接口",
-            "url": "http://52bsj.vip:81/api/v3/file/get/168080/cong.txt?sign=wdWlonRfqWrqEkM9gS0pbjLp2dHdOzWZ8uxjny1lq4M%3D%3A0"
+            "name": "🌹本仓库主接口",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/hu.txt"
         },
    
  {
