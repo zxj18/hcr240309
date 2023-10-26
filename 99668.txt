@@ -24,6 +24,10 @@
             "name": "🚒运输车车",
             "url": "https://cf.weixine.net/ysc.json"
         },
+ {
+            "name": "🔰影音天堂",
+            "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
+        },
 
         {
             "name": "🎁月光宝盒",
