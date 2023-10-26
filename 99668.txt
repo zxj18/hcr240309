@@ -2,7 +2,7 @@
     "urls": [
     {
             "name": "🚞主接口源",
-            "url": "https://pan.shangui.cc/f/8Qybfo/ssjyz.txt"      },
+            "url": "http://fan.888484.xyz/tv"      },
    
  {
             "name": "🌴Cat接口",
