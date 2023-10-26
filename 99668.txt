@@ -25,6 +25,10 @@
             "url": "https://cf.weixine.net/ysc.json"
         },
 
+        {
+            "name": "🎁月光宝盒",
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro%e5%8e%9f.json"
+        },
  {
             "name": "🍚饭太硬好",
             "url": "http://饭太硬.top/tv"
