@@ -5,7 +5,7 @@
             "url": "https://pan.shangui.cc/f/8Qybfo/ssjyz.txt"      },
    
  {
-            "name": "🏄🏻catbox接口",
+            "name": "🌴catbox接口",
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
         },
 {
@@ -21,12 +21,12 @@
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"  },
 
  {
-            "name": "🚒运输车",
+            "name": "🚒运输车接口",
             "url": "https://cf.weixine.net/ysc.json"
         },
 
  {
-            "name": "🍚饭太硬",
+            "name": "🍚饭太硬接口",
             "url": "http://饭太硬.top/tv"
         },
  {
@@ -47,12 +47,12 @@
             "url": "https://9xi4o.tk/tvbox.json"
         },
         {
-            "name": "🚂道长接口",
+            "name": "🕵道长接口",
             "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
         },
 
 {
-            "name": "🌌星河主接口",
+            "name": "🌌星河接口",
             "url": "https://pan.shangui.cc/f/vpzxFk/y.txt"
         },
 
@@ -86,7 +86,10 @@
             "name": "🍄ONETV接口",
             "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"
         },
- 
+     {
+            "name": "🎁小盒酷玩接口",
+            "url": "http://小盒酷玩.fun:66/禁止贩卖"
+        },
   
        {
             "name": "🏵宏宇接口",
@@ -99,7 +102,7 @@
             "url": "https://www.lianyingtv.com/fast/fast"
         },
         {
-            "name": "🌼菜妮丝",
+            "name": "🌼菜妮丝姐姐",
             "url": "https://tvbox.cainisi.cf"
     
         },
