@@ -1,13 +1,10 @@
 ﻿{
     "urls": [
     {
-            "name": "🚞主接口源",
+            "name": "❤️主接口源",
             "url": "http://fan.888484.xyz/tv"      },
    
- {
-            "name": "🌴Cat接口",
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
-        },
+ 
 {
             "name": "🦉夜猫接口",
             "url": "https://download.kstore.space/download/3313/app/ymzn"
@@ -16,6 +13,16 @@
             "name": "🎯十二道牌",
             "url": "http://wp.anxwl.cn/view.php/16789475e9f1d205409131129d2b1162.jpg"
         },
+{
+            "name": "🍭阿里专线",
+            "url": "http://yydsys.top/duo/ali
+"
+        },
+{
+            "name": "🎀香雅情缘",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+        },
+
         {
             "name": "🌺南风接口",
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"  },
@@ -47,6 +54,27 @@
             "url": "https://www.bestpvp.site/关注码上放生/时光机"
         },
         {
+            "name": "🥣小米接口",
+            "url": "http://xhww.fun:63/小米/DEMO.json"
+        },
+{
+            "name": "👮锦哥影视",
+            "url": "http://jin.锦哥哥.love"
+        },
+{
+            "name": "🍷芝麻影视",
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
+        },
+{
+            "name": "🛠非凡工具",
+            "url": "https://codeberg.org/jgfx/dym/raw/branch/master/master825.json"
+        },
+{
+            "name": "🌴Cat接口",
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
+        },
+
+        {
             "name": "🌹爱TV接口",
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
         },
@@ -77,6 +105,14 @@
         },
 
 
+        {
+            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
+            "name": "🌹沃影主站"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "🐼肥猫接口"
+        },
 
         {
             "name": "🍭徐徐影视",
@@ -106,8 +142,8 @@
 
        
         {
-            "name": "💝恋影接口",
-            "url": "https://www.lianyingtv.com/fast/fast"
+            "name": "💓艾艾接口",
+            "url": "http://cdn.qiaoji8.com/tvbox.json"
         },
         {
             "name": "🌼菜妮丝姐",
@@ -203,14 +239,21 @@
             "url": "https://agit.ai/ddx/nmys/raw/branch/master/feimao.json"
         },
         
-        {
-            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
-            "name": "🌹沃影主站"
+ {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+            "name": "📌量帅接口"
         },
-        {
-            "url": "http://刚刚.live/猫",
-            "name": "🐼肥猫接口"
+  {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt ",
+            "name": "🍔美食专线"
         },
+
+
+  {
+            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+            "name": "📕教育专线"
+        },
+
       
         
  
