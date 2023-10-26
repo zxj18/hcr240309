@@ -13,8 +13,8 @@
             "url": "https://download.kstore.space/download/3313/app/ymzn"
         },
         {
-            "name": "🦉夜猫子少儿频道",
-            "url": "https://d.looks.wang/夜猫子少儿频道"
+            "name": "🎹十二道锋味",
+            "url": "http://wp.anxwl.cn/view.php/16789475e9f1d205409131129d2b1162.jpg"
         },
         {
             "name": "🌺南风接口",
@@ -65,7 +65,7 @@
 
 {
             "name": "🌺集多影视",
-            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/jdjk1.json"
+            "url": "http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"
         },
 
 
