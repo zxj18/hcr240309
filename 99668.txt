@@ -25,7 +25,7 @@
             "url": "https://cf.weixine.net/ysc.json"
         },
  {
-            "name": "🔰影音天堂",
+            "name": "💠影音天堂",
             "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
         },
 
@@ -60,8 +60,8 @@
         },
 
 {
-            "name": "🌌星河接口",
-            "url": "https://pan.shangui.cc/f/vpzxFk/y.txt"
+            "name": "🔰短剧合集",
+            "url": "http://52bsj.vip:81/api/v3/file/get/172543/10086a.txt?sign=C63-_cBm47UxXyAPRhOCyJNAp32yVb7h7O-gMZ2dkqg%3D%3A0"
         },
 
 
