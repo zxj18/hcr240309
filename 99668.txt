@@ -10,7 +10,7 @@
         },
 {
             "name": "🦉夜猫子接口",
-            "url": "https://s2.pub/xymz"
+            "url": "https://download.kstore.space/download/3313/app/ymzn"
         },
         {
             "name": "🦉夜猫子少儿频道",
@@ -30,8 +30,8 @@
             "url": "http://饭太硬.top/tv"
         },
  {
-            "name": "🌳6677接口",
-            "url": "http://biut.tk:6677/xyq.txt"
+            "name": "🌳业余打发接口",
+            "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json"
         },
 
         {
@@ -52,8 +52,8 @@
         },
 
 {
-            "name": "🐧乌鸦主接口",
-            "url": "https://jihulab.com/raven-ali/box/-/raw/main/Raven-Box/Raven-Dc.txt"
+            "name": "🌌星河主接口",
+            "url": "https://pan.shangui.cc/f/vpzxFk/y.txt"
         },
 
 
@@ -65,7 +65,7 @@
 
 {
             "name": "🌺集多影视",
-            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/jdjk.json"
+            "url": "https://gitee.com/ywjtv/ywjtv/raw/master/jdjk1.json"
         },
 
 
