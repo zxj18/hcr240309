@@ -7,7 +7,16 @@
 	"warningText": "提示】每天更新 本接口免费，每次打开记得长按主页刷新！",
 	"sites": [
 { "key": "横版影院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
-
+{
+            "key": "js_电影先生",
+            "name": "🤵电影先生",
+            "type": 3,
+            "api": "http://52bsj.vip:81/api/v3/file/get/172569/apiv15drpy2.min.js?sign=iHlqUd3yJH58WdPyJULuQQQ_3B1UhsNLwT0vMIK2JkU%3D%3A0",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://52bsj.vip:81/api/v3/file/get/172570/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.js?sign=rDxuzGGbavSy9D21AZUjAOOf-IhrL08qYavdtxHIUWI%3D%3A0"
+        },
 {
 			"key": "csp_非凡资源",
 			"name": "💎非凡采集",
@@ -114,7 +123,8 @@
         "影视解说"
       ]
     },
-{"key":"drpy_js_影渣渣","name":"💯影视 | 影渣渣","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/172545/%E5%A4%8D%E4%BB%B6%20drpy2.min.js?sign=DbD6J6cD1ulkdzxVGXPfEQBTnBzmV8X810P07f7cVak%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/172546/%E5%A4%8D%E4%BB%B6%20%E5%BD%B1%E6%B8%A3%E6%B8%A3.js?sign=FtkrE9H8E_gVRcFx-WTyWO8d_wC9rPm8X5s0s46iOao%3D%3A0"},
+{ "key": "挂影院", "name": "💠听听影院", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [  "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "电影解说", "足球", "篮球", "网球", "斯诺克", "预告片" ] }, 
+{"key":"drpy_js_影渣渣","name":"♻️影渣渣","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/172545/%E5%A4%8D%E4%BB%B6%20drpy2.min.js?sign=DbD6J6cD1ulkdzxVGXPfEQBTnBzmV8X810P07f7cVak%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/172546/%E5%A4%8D%E4%BB%B6%20%E5%BD%B1%E6%B8%A3%E6%B8%A3.js?sign=FtkrE9H8E_gVRcFx-WTyWO8d_wC9rPm8X5s0s46iOao%3D%3A0"},
     {
       "key": "csp_xml_享看",
       "name": "🛎香看",
