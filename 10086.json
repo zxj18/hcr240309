@@ -8,6 +8,18 @@
 	"sites": [
 { "key": "横版影院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
 {
+            "key": "XBPQ_葡萄",
+            "name": "🍇葡萄短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "数组": "class=\"stui-vodlist__box&&</li",
+                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+                "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+            }
+        },		
+
+{
             "key": "js_电影先生",
             "name": "🤵电影先生",
             "type": 3,
