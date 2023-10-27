@@ -10,8 +10,8 @@
             "url": "https://download.kstore.space/download/3313/app/ymzn"
         },
         {
-            "name": "🎯十二道牌",
-            "url": "http://wp.anxwl.cn/view.php/16789475e9f1d205409131129d2b1162.jpg"
+            "name": "🎎短剧大全",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
 {
             "name": "🍭阿里专线",
@@ -28,19 +28,6 @@
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"  },
 
  {
-            "name": "🚒运输车车",
-            "url": "https://cf.weixine.net/ysc.json"
-        },
- {
-            "name": "💠影音天堂",
-            "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
-        },
-
-        {
-            "name": "🎁月光宝盒",
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro%e5%8e%9f.json"
-        },
- {
             "name": "🍚饭太硬好",
             "url": "http://饭太硬.top/tv"
         },
@@ -48,10 +35,40 @@
             "name": "🌳业余打发",
             "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json"
         },
+    {
+            "name": "🕵道长接口",
+            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
+        },
+
 
         {
             "name": "🛰时光机飞",
             "url": "https://www.bestpvp.site/关注码上放生/时光机"
+        },
+
+ {
+            "name": "🚒运输车车",
+            "url": "https://cf.weixine.net/ysc.json"
+        },
+
+{
+            "name": "🌺集多影视",
+            "url": "http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"
+        },
+
+
+        {
+            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
+            "name": "🌹沃影主站"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "🐼肥猫接口"
+        },
+
+        {
+            "name": "🎁月光宝盒",
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro%e5%8e%9f.json"
         },
         {
             "name": "🥣小米接口",
@@ -82,13 +99,13 @@
             "name": "🌈盐枭接口",
             "url": "https://9xi4o.tk/tvbox.json"
         },
-        {
-            "name": "🕵道长接口",
-            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
-        },
+   {
+            "name": "💠影音天堂",
+            "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
+        },  
 
 {
-            "name": "🔰短剧合集",
+            "name": "🔰一帆风顺",
             "url": "http://52bsj.vip:81/api/v3/file/get/172543/10086a.txt?sign=C63-_cBm47UxXyAPRhOCyJNAp32yVb7h7O-gMZ2dkqg%3D%3A0"
         },
 
@@ -99,20 +116,6 @@
             "url": "http://rihou.cc:88/荷城茶秀"
         },
 
-{
-            "name": "🌺集多影视",
-            "url": "http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"
-        },
-
-
-        {
-            "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
-            "name": "🌹沃影主站"
-        },
-        {
-            "url": "http://刚刚.live/猫",
-            "name": "🐼肥猫接口"
-        },
 
         {
             "name": "🍭徐徐影视",
