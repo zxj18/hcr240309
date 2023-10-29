@@ -35,6 +35,12 @@
             "name": "🍚饭太硬好",
             "url": "http://饭太硬.top/tv"
         },
+{
+            "name": "💁玉玉接口",
+            "url": "http://8.210.232.168/xc.json"
+        },
+
+
  {
             "name": "🌳业余打发",
             "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json"
@@ -82,7 +88,7 @@
             "name": "🐼肥猫接口"
         },
 {
-            "name": "🏓瓣雨影视",
+            "name": "🌿春溢天下",
             "url": "https://wds.ecsxs.com/230989.json"
         },
         {
@@ -98,6 +104,26 @@
             "name": "🥣小米接口",
             "url": "http://xhww.fun:63/小米/DEMO.json"
         },
+  {
+            "name": "🐺猎狼影视",
+            "url": "https://www.lltv8.top"
+        },
+{
+            "name": "💧高山流水",
+            "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"},
+  {
+            "name": "🌰精品商铺",
+            "url": "http://xxxoo.shop"
+        },
+  {
+            "name": "🌪海风线路",
+            "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/00.json"
+        },
+  {
+            "name": "🌪海风爱腾",
+            "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/8.json"
+        }, 
+
 {
             "name": "👮锦哥影视",
             "url": "http://jin.锦哥哥.love"
@@ -119,7 +145,6 @@
             "name": "🌹爱TV接口",
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
         },
-{"name":"🍭环宇轩4k🍭","url":"http://hyxuanit.com/jiekou/2.json"},
 {"name":"🟦蓝色影视","url":"http://hyxuanit.com/jiekou/Blue.json"},
 {"name":"💝爱TV吧","url":"http://tt.58cxz.com/001.json"},
     {
@@ -130,7 +155,14 @@
             "name": "💠影音天堂",
             "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
         },  
-
+   {
+            "name": "🏩时光乐屋",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
+        },  
+   {
+            "name": "🏫时光乐屋",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json"
+        },  
 {
             "name": "🔰一帆风顺",
             "url": "http://52bsj.vip:81/api/v3/file/get/172543/10086a.txt?sign=C63-_cBm47UxXyAPRhOCyJNAp32yVb7h7O-gMZ2dkqg%3D%3A0"
@@ -159,7 +191,7 @@
         },
   
        {
-            "name": "🏵宏宇接口",
+            "name": "🎣圆周率π",
             "url": "http://hyxuanit.com/jiekou/2.json"
         },
 
