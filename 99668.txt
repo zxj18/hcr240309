@@ -78,6 +78,14 @@
             "name": "📜十二道令"
         },
 
+ {
+            "url": "https://agit.ai/376242575/line1/raw/branch/master/line1.json",
+            "name": "👚人人资源"
+        },
+ {
+            "url": "http://biu.alwaysdata.net/box.json",
+            "name": "🥒牛大佬源"
+        },
 
         {
             "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
@@ -145,7 +153,7 @@
             "name": "🌹爱TV接口",
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
         },
-{"name":"🟦蓝色影视","url":"http://hyxuanit.com/jiekou/Blue.json"},
+{"name":"🥙妃天影视","url":"https://jihulab.com/moyuer/jk/-/raw/main/moyu.json"},
 {"name":"💝爱TV吧","url":"http://tt.58cxz.com/001.json"},
     {
             "name": "🌈盐枭接口",
@@ -182,8 +190,8 @@
         },
         
         {
-            "name": "🍄OETV接口",
-            "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/OwenTV.json"
+            "name": "🍱栩栩如生",
+            "url": "https://download.kstore.space/download/4907/jcsq/fx.json"
         },
      {
             "name": "🎁小盒酷玩",
@@ -191,8 +199,8 @@
         },
   
        {
-            "name": "🎣圆周率π",
-            "url": "http://hyxuanit.com/jiekou/2.json"
+            "name": "🥨蜂窝大佬",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
         },
 
        
