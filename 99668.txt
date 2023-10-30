@@ -42,8 +42,8 @@
 
 
  {
-            "name": "🌳业余打发",
-            "url": "https://raw.gitmirror.com/yydfys/yydf/main/yydf/yydf.json"
+            "name": "🍷业余打发",
+            "url": "http://111.67.195.139/yydf/yyffjk.json"
         },
     {
             "name": "🕵道长接口",
