@@ -69,8 +69,8 @@
         },
 
         {
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/gtly1.json",
-            "name": "🥝一叶之秋"
+            "url": "http://rihou.vip:61/天天开心",
+            "name": "😀天天开心"
         },
 
         {
