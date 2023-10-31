@@ -1,6 +1,6 @@
 ﻿{
-	"spider": "https://agit.ai/hu/hcr/raw/commit/6b10739714ea15e1b96de760d7580c24e32c7b75/fan.txt",
-"spider": "http://52bsj.vip:81/api/v3/file/get/172540/uyv0t678c488189af47bb91dc108484d17431.jar?sign=xGYFllLdwnePsT8oVY5OhA5qRO7XlAv0I8e3qjJJctE%3D%3A0;md5;5388d60fb0519fa359339c3252fa5e69",
+
+"spider": "https://codeberg.org/hcr/hcr/raw/branch/hu/fan.txt",
 
 
 	"wallpaper": "http://饭.eu.org/深色壁纸/api.php",
@@ -17,7 +17,7 @@
                 "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
                 "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
             }
-        },		
+        },
 {
   "key": "csp_短剧香",
   "name": "🥝网香短剧",
@@ -90,17 +90,17 @@
     "手动嗅探视频链接过滤词": ".html#?url=http"
     }
 },
-
 {
             "key": "js_电影先生",
-            "name": "🤵电影先生",
+            "name": "🤵┃电影┃先生",
             "type": 3,
-            "api": "http://52bsj.vip:81/api/v3/file/get/172569/apiv15drpy2.min.js?sign=iHlqUd3yJH58WdPyJULuQQQ_3B1UhsNLwT0vMIK2JkU%3D%3A0",
+            "api": "./lib/apiv15drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/172570/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.js?sign=rDxuzGGbavSy9D21AZUjAOOf-IhrL08qYavdtxHIUWI%3D%3A0"
+            "ext": "./lib/电影先生.js"
         },
+
 {
 			"key": "csp_非凡资源",
 			"name": "💎非凡采集",
@@ -277,7 +277,14 @@
         "动作片"
       ]
     },
-{"key":"sszb","name":"🎸直播间","type":3,"api":"http://lgz.hk3.20212021.cf/json/drpy.min.js","searchable":1,"changeable":1,"ext":"https://pan.shangui.cc/f/ljBJHk/ss%E7%9B%B4%E6%92%AD.js"},
+{
+      "key": "荐片",
+      "name": "🆑荐片秒播",
+      "type": 3,
+      "api": "https://codeberg.org/hcr/hcr/raw/branch/hu/apiv43man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io=:0",
+      "ext": "https://codeberg.org/hcr/hcr/raw/branch/hu/78jianpian.txt"
+    },
+{"key":"sszb","name":"🎸直播间","type":3,"api":"http://lgz.hk3.20212021.cf/json/drpy.min.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/hcr/hcr/raw/branch/hu/1121ss.js"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
 {
         "key": "yqkan_pen",
@@ -446,7 +453,7 @@
             "changeable": 0,
             "ext": "https://drpy.cainisi.cf/js/drpy.js"
         },
-{"key":"荐片","name":"🎬荐片影视","type":3,"api":"https://agit.ai/hu/hcr/raw/commit/4cfccbf4385fc7c84f2bcfa72c36b9d265f87c32/apiv43drpy2.min.js","ext":"https://agit.ai/hu/hcr/raw/commit/844d8d82048c10d24fe756a25665ae7c9007e5aa/jianpian.js"},
+{"key":"荐片a","name":"🎬荐片影视","type":3,"api":"https://agit.ai/hu/hcr/raw/commit/4cfccbf4385fc7c84f2bcfa72c36b9d265f87c32/apiv43drpy2.min.js","ext":"https://agit.ai/hu/hcr/raw/commit/844d8d82048c10d24fe756a25665ae7c9007e5aa/jianpian.js"},
 	
 	
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
@@ -475,6 +482,15 @@
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
 {"key":"csp_MeijuMi","name":"Ⓜ️美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
+
+		{	"key": "直播转播",
+			"name": " 📡电视直播",
+			"type": 3,
+			"api": "https://agit.ai/hu/hcr/raw/branch/master/apiv53zbzdb.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://pan.shangui.cc/f/VG0bS8/%E5%A4%A7%E5%85%A8.txt"},
     {
       "key": "csp_XYQHiker_极影网",
       "name": "🔰极影网",
@@ -1324,7 +1340,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9pcHR2aW5kZXguY29tL3R2LnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvaGNyL2hjci9yYXcvYnJhbmNoL2h1L25qeXkudHh0"
           ]
         }
       ]
