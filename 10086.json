@@ -171,6 +171,10 @@
 				"爱情片",
 				"喜剧片"
 			] },
+{"key": "py_cctv","name": "🇨🇳CCTV┃PY","type": 3,"api": "py_cctv",
+"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/py_cctv.json"},
+{"key":"py_cctvdc","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/py_cctvdc.json"},
+
 {
       "key": "csp_Bttoo",
       "name": "🔰比特",
