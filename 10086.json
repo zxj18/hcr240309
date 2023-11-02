@@ -100,7 +100,16 @@
             "filterable": 1,
             "ext": "./lib/电影先生.js"
         },
-
+   {
+      "key": "乐猪影视",
+      "name": "🐷乐猪影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/42lz.txt"
+    },
 {
 			"key": "csp_非凡资源",
 			"name": "💎非凡采集",
