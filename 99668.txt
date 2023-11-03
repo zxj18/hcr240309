@@ -252,8 +252,8 @@
             "url": "https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"
         },
         {
-            "name": "🏡伯欣元源",
-            "url": "https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt"
+            "name": "🏀西夏影音",
+            "url": "http://wp.anxwl.cn/down.php/245a89be183aeddb85d1501ed5eb3260.json"
         },
         {
             "name": "✨精简接口",
