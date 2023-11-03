@@ -19,10 +19,16 @@
             "url": "http://yydsys.top/duo/ali
 "
         },
+{
+            "name": "🍭阿里专线",
+            "url": "http://yydsys.top/duo/ali
+"
+        },
+
 
         {
-            "name": "🌺南风接口",
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"  },
+            "name": "🛰时光机源",
+            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/master_stable_github_1.json"  },
 
  {
             "name": "🍚饭太硬好",
@@ -43,6 +49,11 @@
             "name": "🍑业余打发",
             "url": "http://111.67.195.139/yydf/yyffjk.json"
         },
+{
+            "name": "🥃业余打發",
+            "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
+        },
+
     {
             "name": "🕵道长接口",
             "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
@@ -63,9 +74,20 @@
             "url": "http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"
         },
 
-        
+  {
+            "name": "💧高山流水",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+        },  
+   {
+            "name": "🍟去看4了k",
+            "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
+        },  
+   
 
- 
+  {
+            "name": "💦小桥流水",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+        },  
 
  {
             "url": "https://agit.ai/376242575/line1/raw/branch/master/line1.json",
@@ -103,7 +125,7 @@
             "url": "https://www.lltv8.top"
         },
 {
-            "name": "💧高山流水",
+            "name": "☔️缘聚缘散",
             "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"},
   {
             "name": "🌰精品商铺",
@@ -149,7 +171,10 @@
             "name": "🛀🏻影音天堂",
             "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
         },  
-
+  {
+            "name": "🆎数字键盘",
+            "url": "http://s2.pub/369"
+        },  
 
 
 {
