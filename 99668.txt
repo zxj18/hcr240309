@@ -11,7 +11,7 @@
             "url": "https://download.kstore.space/download/3313/app/ymzn"
         },
         {
-            "name": "🎎14个短剧源",
+            "name": "🎎最全短剧",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
 {
@@ -171,15 +171,19 @@
             "name": "🎁小盒酷玩",
             "url": "http://小盒酷玩.fun:66/禁止贩卖"
         },
-  
+
+   {
+            "name": "🏩源来享家",
+            "url": "https://box.000913.xyz/230924"
+        },
        {
-            "name": "🐝蜂窝大佬",
+            "name": "🐝蜂窝接口",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
         },
 
        
         {
-            "name": "💓艾艾接口",
+            "name": "❤️艾艾接口",
             "url": "http://cdn.qiaoji8.com/tvbox.json"
         },
         {
