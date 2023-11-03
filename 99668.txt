@@ -11,20 +11,13 @@
             "url": "https://download.kstore.space/download/3313/app/ymzn"
         },
         {
-            "name": "🎎短剧大全",
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+            "name": "🎎14个短剧源",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
 {
             "name": "🍭阿里专线",
             "url": "http://yydsys.top/duo/ali
 "
-        },
-{"name":"👭短剧备用","url":"https://codeberg.org/hcr/hcr/raw/branch/hu/10086.json
-"},
-    
-{
-            "name": "🎀香雅情缘",
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
         },
 
         {
@@ -36,13 +29,18 @@
             "url": "http://饭太硬.top/tv"
         },
 {
-            "name": "💁玉玉接口",
+            "name": "💠小重楼楼",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+        },
+
+{
+            "name": "🍇玉玉接口",
             "url": "http://8.210.232.168/xc.json"
         },
 
 
  {
-            "name": "🍷业余打发",
+            "name": "🍑业余打发",
             "url": "http://111.67.195.139/yydf/yyffjk.json"
         },
     {
@@ -53,10 +51,7 @@
 
 "},
 
-        {
-            "name": "🛰时光机飞",
-            "url": "https://www.bestpvp.site/关注码上放生/时光机"
-        },
+     
 
  {
             "name": "🚒运输车车",
@@ -64,32 +59,26 @@
         },
 
 {
-            "name": "🌺集多影视",
+            "name": "🥘集多影视",
             "url": "http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"
         },
 
-        {
-            "url": "http://rihou.vip:61/天天开心",
-            "name": "😀天天开心"
-        },
+        
 
-        {
-            "url": "http://wp.anxwl.cn/view.php/16789475e9f1d205409131129d2b1162.jpg",
-            "name": "📜十二道令"
-        },
+ 
 
  {
             "url": "https://agit.ai/376242575/line1/raw/branch/master/line1.json",
-            "name": "👚人人资源"
+            "name": "🧛‍♂️人人资源"
         },
  {
             "url": "http://biu.alwaysdata.net/box.json",
-            "name": "🥒牛大佬源"
+            "name": "🦊牛大佬源"
         },
 
         {
             "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
-            "name": "🌹沃影主站"
+            "name": "🐻沃影主站"
         },
         {
             "url": "http://刚刚.live/猫",
@@ -99,10 +88,7 @@
             "name": "🌿春溢天下",
             "url": "https://wds.ecsxs.com/230989.json"
         },
-        {
-            "name": "💟整挺好呀",
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/djk1.json"
-        },
+       
 
         {
             "name": "🎁月光宝盒",
@@ -137,7 +123,7 @@
             "url": "http://jin.锦哥哥.love"
         },
 {
-            "name": "🍷芝麻影视",
+            "name": "🏄🏻abc影视",
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
         },
 {
@@ -160,21 +146,9 @@
             "url": "https://9xi4o.tk/tvbox.json"
         },
    {
-            "name": "💠影音天堂",
+            "name": "🛀🏻影音天堂",
             "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
         },  
-   {
-            "name": "🏩时光乐屋",
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
-        },  
-   {
-            "name": "🏫时光乐屋",
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json"
-        },  
-{
-            "name": "🔰一帆风顺",
-            "url": "http://52bsj.vip:81/api/v3/file/get/172543/10086a.txt?sign=C63-_cBm47UxXyAPRhOCyJNAp32yVb7h7O-gMZ2dkqg%3D%3A0"
-        },
 
 
 
@@ -199,7 +173,7 @@
         },
   
        {
-            "name": "🥨蜂窝大佬",
+            "name": "🐝蜂窝大佬",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
         },
 
@@ -266,10 +240,7 @@
             "name": "💎TTF接口",
             "url": "https://agit.ai/Doudou/TVbox/raw/branch/master/intf/intf_1.json"
         },
-        {
-            "name": "🐝蜂蜜接口",
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
-        },
+  
        
       
 {
