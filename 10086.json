@@ -1,7 +1,7 @@
 ﻿{
 
 "spider": "https://codeberg.org/hcr/hcr/raw/branch/hu/fan.txt",
-"spider": "https://codeberg.org/hcr/hcr/src/branch/hu/1121_100805_uyv0t678c488189af47bb91dc108484d17431.jar;md5;5388d60fb0519fa359339c3252fa5e69",
+"spider": "https://codeberg.org/hcr/hcr/src/branch/hu/1121_100805_uyv0t678c488189af47bb91dc108484d17431.jar;md5;cf00cc8baef423e51187750ac973417d",
 
 	"wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 	"warningText": "提示】每天更新 本接口免费，每次打开记得长按主页刷新！",
@@ -460,8 +460,17 @@
             "changeable": 0,
             "ext": "https://drpy.cainisi.cf/js/drpy.js"
         },
-{"key":"荐片a","name":"🎬荐片影视","type":3,"api":"https://agit.ai/hu/hcr/raw/commit/4cfccbf4385fc7c84f2bcfa72c36b9d265f87c32/apiv43drpy2.min.js","ext":"https://agit.ai/hu/hcr/raw/commit/844d8d82048c10d24fe756a25665ae7c9007e5aa/jianpian.js"},
-	
+     {
+            "key": "js_荐片",
+            "name": "⏳┃荐片┃影视",
+            "type": 3,
+            "api": "./lib/apiv15drpy2.min.js",
+            "ext": "./lib/荐片.js",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },		
 	
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
 //{"key":"探探","name":"🏵影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
