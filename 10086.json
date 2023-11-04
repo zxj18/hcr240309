@@ -262,6 +262,7 @@
         "综艺"
       ]
     },
+{"key":"橘子","name":"🍊橘子┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
     {
       "key": "百度资源",
       "name": "🚢百度",
@@ -290,15 +291,8 @@
         "动作片"
       ]
     },
-{
-      "key": "荐片",
-      "name": "🆑荐片秒播",
-      "type": 3,
-      "api": "https://codeberg.org/hcr/hcr/raw/branch/hu/apiv43man.js?sign=-xtYfBjYFro1cnHVp634eBtEggqpmOCMY6HABeva0io=:0",
-      "ext": "https://codeberg.org/hcr/hcr/raw/branch/hu/78jianpian.txt"
-    },
 {"key":"sszb","name":"🎸直播间","type":3,"api":"http://lgz.hk3.20212021.cf/json/drpy.min.js","searchable":1,"changeable":1,"ext":"https://codeberg.org/hcr/hcr/raw/branch/hu/1121ss.js"},
-{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {
         "key": "yqkan_pen",
         "name": "❤️短剧一",
@@ -622,7 +616,7 @@
 { 			"key": "q享看", 			"name": "🎒想看影视", 			"type": 1, 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			"api": "https://xkanzy5.com/api.php/provide/vod/", 			"playUrl": "json:https://wuzei.serv00.net/m3u8/xk.php?url=", 			"categories": [ 				"国产剧", 				"日韩剧", 				"港台剧", 				"欧美剧", 				"动作片", 				"科幻片", 				"战争片", 				"喜剧片", 				"大陆综艺", 				"国产动漫" 			] 		},
 		
 
-   {
+  /* {
       "key": "drpy_js_爱看机器人",
       "name": "🌺爱机器人",
       "type": 3,
@@ -631,7 +625,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://agit.ai/hu/hcr/raw/branch/master/爱看机器人.js"
-    },
+    },*/
 		{
       "key": "49zy",
       "name": "♻️49影视",
