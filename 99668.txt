@@ -158,9 +158,14 @@
             "url": "https://codeberg.org/jgfx/dym/raw/branch/master/master825.json"
         },
 {
-            "name": "🌴Cat接口",
+            "name": "🌴CatT4口",
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
         },
+{
+            "name": "🌿Cat接口",
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"
+        },
+
 
         {
             "name": "🌹爱TV接口",
@@ -176,10 +181,10 @@
             "name": "🛀🏻影音天堂",
             "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
         },  
-  {
-            "name": "🆎数字键盘",
-            "url": "http://s2.pub/369"
-        },  
+  	{
+			"name": "❣️壹梦梦壹",
+			"url": "http://qrh.yimkj.cn/ym/壹梦.json"
+		},
 
 
 {
@@ -240,6 +245,14 @@
  },
 
 
+		{
+			"name": "🥗圆周率π",
+			"url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt?ref_type=heads"
+		},
+	{
+			"name": "🌹香雅情缘",
+			"url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"
+		},
         {
             "name": "🔘精选接口",
             "url": "https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"
