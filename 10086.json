@@ -578,16 +578,7 @@
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 
 {"key":"drpy_js_六QQ月","name":"🐵 大师兄电影 [js]","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/413yS0/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js","playerType":"2"},
-	{
-			"key": "相声小品",
-			"name": "🐳相声小品",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://xin46.ct8.pl/bili/xs.json"
-		},
+	
 {"key":"drpy_js_六月","name":"👬相声","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"http://52bsj.vip:81/api/v3/file/get/170693/%E7%9B%B8%E5%A3%B0%E9%9A%8F%E8%BA%AB%E5%90%AC.js?sign=XyCIKoOb9f9PC9ra4CfGDQj15k2WSLO3aQoLoBd9nkI%3D%3A0","playerType":"2"},
 {"key":"drpy_js_哥哥QQ月","name":"🙇 275听书 [js]","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/AD3Kfy/i275%E5%90%AC%E4%B9%A6.js","playerType":"2"},	
      {
@@ -709,8 +700,7 @@
 {"key":"酷云77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czz9.com/"},
 {"key":"Cokemv","name":"📕可乐直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"kuaikan","name":"👀快看App","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Ysgc","name":"🏭工场直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.ysgc1.cc/"},
+
 
 {"key":"drpy_js_网飞.TV","name":"🌸网飞TV","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/7BV3UM/%E7%BD%91%E9%A3%9E.TV.js"},
 
@@ -785,24 +775,7 @@
       "filterable": 1,
       "ext": "https://www.zxzj.pro/"
     },
-    {
-      "key": "Kuaikan",
-      "name": "🦋快看影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Vofl",
-      "name": "🧿VoFl资源",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
     {
       "key": "zy_新浪",
       "name": "🏄🏻新浪资源",
@@ -832,16 +805,6 @@
         "泰剧",
         "体育"
       ]
-    },
-    {
-      "key": "csp_骚火",
-      "name": "🔥骚火电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
     },
     {
       "key": "快车资源",
@@ -973,16 +936,6 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": "https://pan.shangui.cc/f/DleDCz/bilibili.json"
-		},
-{
-			"key": "drpy_js_农民",
-			"name": "🥝农民影视",
-			"type": 3,
-			"api": "https://agit.ai/hu/hcr/raw/commit/bba53fc901215946be559dc90cedb022059bcbf8/apiv35drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/hu/hcr/raw/branch/master/农民影视.js"
 		},
  {
       "key": "drpy_js_酷狗MV",
@@ -1223,145 +1176,6 @@
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
     },
 
-{
-      "key": "drpy_js_DJ音乐",
-      "name": "🎧音频 | DJ音乐[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/DJ音乐.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_啦啦DJ",
-      "name": "🎧音频 | 啦啦DJ[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/苹果DJ.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_清风DJ",
-      "name": "🎧音频 | 清风DJ[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/清风DJ.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "🎧广播 | 蜻蜓FM[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_相声随身听",
-      "name": "🎧相声 | 相声随身听[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_i275听书",
-      "name": "🎧听书 | i275听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/i275听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_喜马拉雅",
-      "name": "🎧听书 | 喜马拉雅[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_六月听书",
-      "name": "🎧听书 | 六月听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_博看听书",
-      "name": "🎧听书 | 博看听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_海洋听书",
-      "name": "🎧听书 | 海洋听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/海洋听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_听书网",
-      "name": "🎧听书 | 听书网[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/听书网.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_有声小说",
-      "name": "🎧听书 | 有声小说[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_短视频",
-      "name": "🎧聚合 | 短视频[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/短视频.js"
-    },
-    {
-      "key": "drpy_js_酷6网",
-      "name": "🎧聚合 | 酷6网[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷6网.js"
-    },
-    {
-      "key": "drpy_js_网易公版影像",
-      "name": "🎧聚合 | 网易公版影像[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
-    },
-    {
-      "key": "drpy_js_A8音乐",
-      "name": "🎧MV | A8音乐[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
-    },
-    {
-      "key": "drpy_js_MV263",
-      "name": "🎧MV | 263[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/MV263.js"
-    },
-    {
-      "key": "drpy_js_苹果DJ",
-      "name": "🎧MV | 苹果DJ[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/苹果DJ.js"
-    },
-{"key":"drpy_js_六月听书","name":"🕴听书 | 六月听书[js]","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/vYmxCk/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js","playerType":"2"},
 {"key":"drpy_js_月听书","name":"🎸听书 |卡子门站[js]","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/0b3zfj/%E5%85%AD%E6%9C%88%E5%90%AC%E4%B9%A6.js","playerType":"2"},
 	{
 			"key": "push_agent",
