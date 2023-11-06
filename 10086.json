@@ -2,6 +2,7 @@
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;cf00cc8baef423e51187750ac973417d",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
+{"key":"drpy_js_电影钱先生","name":"影高视 | 电影先生[js]","type":3,"api":"https://agit.ai/hu/hcr/raw/branch/master/apiv65drpy2.min.js","ext":"https://agit.ai/hu/hcr/raw/branch/master/%e7%94%b5%e5%bd%b1%e5%85%88%e7%94%9f.js"},
 { "key": "横版影院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
 {
             "key": "XBPQ_葡萄",
