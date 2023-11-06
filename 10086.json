@@ -165,6 +165,8 @@
 				"爱情片",
 				"喜剧片"
 			] },
+        {"key": "csp_XYQHiker_电影港","name":"🎪 电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/342ZCv/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json"},
+
 {"key": "py_cctv","name": "🇨🇳CCTV┃PY","type": 3,"api": "py_cctv",
 "searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/py_cctv.json"},
 {"key":"py_cctvdc","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/py_cctvdc.json"},
@@ -612,15 +614,16 @@
         },
 	{"key":"drpy_js_哥就Q月","name":"🐝蜻蜓FM [js]","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/lqVlUk/%E8%9C%BB%E8%9C%93FM.js","playerType":"2"},	
 {
-            "key": "js_nangua",
-            "name": "🎃南瓜影院",
-            "type": 3,
-            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
-        },
+			"key": "js_nangua",
+			"name": "🍅南瓜影视",
+			"type": 3,
+			"api": "./lib/apiv35api.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/ng.js"
+		},
+
 		{
 			"key": "xsj",
 			"name": "💍视觉影视",
@@ -631,15 +634,6 @@
 			"filterable": 1,
 			"ext": "https://pan.shangui.cc/f/5yEmfA/55583d9313aefa35e52b1a248fee1190.js"
 		},
-{
-            "key": "XYQH_影港",
-            "name": "🍧电影港",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_XYQHiker",
-            "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-            "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
-        },
 {"key":"Lib","name": "🌟利播直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
 {"key":"DiDuan","name":"⏮️低端直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 { 			"key": "q享看", 			"name": "🎒想看影视", 			"type": 1, 			"searchable": 1, 			"quickSearch": 1, 			"filterable": 1, 			"api": "https://xkanzy5.com/api.php/provide/vod/", 			"playUrl": "json:https://wuzei.serv00.net/m3u8/xk.php?url=", 			"categories": [ 				"国产剧", 				"日韩剧", 				"港台剧", 				"欧美剧", 				"动作片", 				"科幻片", 				"战争片", 				"喜剧片", 				"大陆综艺", 				"国产动漫" 			] 		},
