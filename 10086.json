@@ -165,8 +165,15 @@
 				"爱情片",
 				"喜剧片"
 			] },
-        {"key": "csp_XYQHiker_电影港","name":"🎪 电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/342ZCv/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json"},
+     {   "key": "csp_XYQHiker_‍dyx",      "name": "👽电影港",      
+      "type": 3,  "playerType":3,    
+      "api": "csp_XYQHiker", 
+      "searchable": 1,                     "quickSearch": 1,      
+      "filterable": 1,      
+      "ext": "./lib/电影港.json"},  
+      {"key": "csp_Mp4Mov","name": "🧲 Mp4","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/cili.jar"},
 
+        
 {"key": "py_cctv","name": "🇨🇳CCTV┃PY","type": 3,"api": "py_cctv",
 "searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/py_cctv.json"},
 {"key":"py_cctvdc","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/py_cctvdc.json"},
