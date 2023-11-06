@@ -1175,6 +1175,76 @@
       "filterable": 0,
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
     },
+	{
+			"key": "csp_阿里七夜",
+			"name": "🔎┃阿里┃七夜",
+			"type": 3,
+			"api": "csp_Dovx",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+		},	
+       {
+            "key": "csp_XiaoZhiTiao",
+            "name": "🏷️┃阿里┃纸条",
+            "type": 3,
+            "api": "csp_XiaoZhiTiao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },			
+        {
+			"key":"PanSearch",
+			"name":"🏵️‍┃阿里┃PanS",
+			"type":3,
+			"api":"csp_PanSearch",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+		},		
+		{
+			"key": "Upyunso",
+			"name": "🌤️┃阿里┃云搜",
+			"type": 3,
+			"api": "csp_UpYun",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+		},
+		{
+			"key": "Alips",
+			"name": "📀┃阿里┃盘搜",
+			"type": 3,
+			"api": "csp_PanSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+		},
+        {
+            "key": "Yisou",
+            "name": "🎯┃阿里┃易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,	
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },			
+		{
+			"key": "Zhaozy",
+			"name": "🔍┃阿里┃找片",
+			"type": 3,
+			"api": "csp_Zhaozy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+		},
 
 {"key":"drpy_js_月听书","name":"🎸听书 |卡子门站[js]","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/0b3zfj/%E5%85%AD%E6%9C%88%E5%90%AC%E4%B9%A6.js","playerType":"2"},
 	{
