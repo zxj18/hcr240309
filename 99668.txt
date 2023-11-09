@@ -146,6 +146,13 @@
         }, 
 
 {
+            "name": "🎯徐哥影视",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/xu.json"
+        },
+
+
+
+{
             "name": "👮锦哥影视",
             "url": "http://jin.锦哥哥.love"
         },
