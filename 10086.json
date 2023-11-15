@@ -35,6 +35,26 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
+ {
+        "key": "bili",
+        "name": "🎯娱乐B站",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0,
+        "ext": "./lib/bili.json"
+    }, {
+        "key": "yinyue",
+        "name": "🎧酷狗音乐",
+        "type": 3,
+        "api": "csp_Music",
+        "searchable": 1,
+        "filterable": 0,
+        "changeable": 0,
+        "ext": "./lib/music.json"
+    },
+    
 {
             "key": "火狐",
             "name": "🔥火狐采集",
