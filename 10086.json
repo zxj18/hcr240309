@@ -36,6 +36,25 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
+    {
+        "key": "maolv",
+        "name": "🎸影视|毛驴",
+        "type": 3,
+        "api": "csp_Maolv",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "ext": "公众号:影视资源站"
+    }, {
+        "key": "jojo",
+        "name": "🎯影视|JOJO",
+        "type": 3,
+        "api": "csp_JoJo",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "公众号:影视资源站"
+    }, 
  {
         "key": "bili",
         "name": "🎯娱乐B站",
