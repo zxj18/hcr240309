@@ -1,6 +1,6 @@
 {
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;cf00cc8baef423e51187750ac973417d",
- 
+  "spider": "./lib/YSZYZ.jar",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
 { "key": "横版影院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
@@ -36,25 +36,7 @@
       "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
-    {
-        "key": "maolv",
-        "name": "🎸影视|毛驴",
-        "type": 3,
-        "api": "csp_Maolv",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0,
-        "ext": "公众号:影视资源站"
-    }, {
-        "key": "jojo",
-        "name": "🎯影视|JOJO",
-        "type": 3,
-        "api": "csp_JoJo",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "公众号:影视资源站"
-    }, 
+
  {
         "key": "bili",
         "name": "🎯娱乐B站",
@@ -64,16 +46,7 @@
         "filterable": 0,
         "changeable": 0,
         "ext": "./lib/bili.json"
-    }, {
-        "key": "yinyue",
-        "name": "🎧酷狗音乐",
-        "type": 3,
-        "api": "csp_Music",
-        "searchable": 1,
-        "filterable": 0,
-        "changeable": 0,
-        "ext": "./lib/music.json"
-    },
+    }, 
     
 {
             "key": "火狐",
