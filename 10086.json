@@ -14,6 +14,8 @@
       "api": "csp_XYQHiker",
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/电影港.json"
     },
+  {"key": "dr_ikanbot","name": "🤖┃爱看机器人┃🤖","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},  
+    
     {
       "key": "蚂蚁",
       "name": "🐜┃蚂蚁┃4K",
