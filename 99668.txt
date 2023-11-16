@@ -16,7 +16,7 @@
         },
        {
             "name": "🍉采集无敌",
-            "url": "https://biu.codered.cloud/wp-content/uploads/2023/11/采集站接口大全.bmp"
+            "url": "https://codeberg.org/rghy/njyy/raw/branch/main/cjz.json"
         },
 
 
