@@ -14,6 +14,12 @@
             "name": "🎎最全短剧",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
+       {
+            "name": "🍉采集无敌",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/cj.txt"
+        },
+
+
 {
             "name": "🍭阿里专线",
             "url": "http://yydsys.top/duo/ali
