@@ -1,4 +1,4 @@
-{
+﻿{
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;cf00cc8baef423e51187750ac973417d",
  
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
@@ -597,9 +597,27 @@
             "quickSearch": 1,
             "filterable": 1
         },		
-	
+	{
+			"key": "js_98k",
+			"name": "🎱九八剧",
+			"type": 3,
+			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://shixiong.alwaysdata.net/js/98k.js"
+		},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"},
 //{"key":"探探","name":"🏵影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
+   {
+      "key": "csp_woggcli",
+      "name": "💰玩偶内置💰",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 		
 	{
 			"key": "csp_appys_影探",
