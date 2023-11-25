@@ -45,8 +45,8 @@
             "url": "http://8.210.232.168/xc.json"
         },
 {
-            "name": "🌅最新4k",
-            "url": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"
+            "name": "🌈最新4k",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/4k.json"
         },
 {
             "name": "🎆七夕影视",
