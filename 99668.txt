@@ -44,6 +44,19 @@
             "name": "🍇玉玉接口",
             "url": "http://8.210.232.168/xc.json"
         },
+{
+            "name": "🌅最新4k",
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"
+        },
+{
+            "name": "🎆七夕影视",
+            "url": "http://tvkj.top/七星/svip.json"
+        },
+{
+            "name": "🏘天薇视讯",
+            "url": "http://tvkj.top/DC/tvys/svip.json"
+        },
+
 
 
  {
