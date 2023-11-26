@@ -12,29 +12,9 @@
       "api": "./lib/apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
-
-    {
-      "key": "XYQH_电影港",
-      "name": "🚢┃港口┃4K",
-      "type": 3,
-      "playerType": 1,
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "api": "csp_XYQHiker",
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/电影港.json"
-    },
+    
   {"key": "dr_ikanbot","name": "🌸爱看机器人","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},  
     
-    {
-      "key": "蚂蚁",
-      "name": "🐜蚂蚁4K",
-      "type": 3,
-      "jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar",
-      "api": "csp_XPathAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json"
-    },
     {
       "key": "csp_XYQHiker_‍dyx",
       "name": "🧲┃电影┃4k",
@@ -328,6 +308,16 @@
         "影视解说"
       ]
     },
+{"key": "js_nk",
+			"name": "🌈耐看影视",
+			"type": 3,
+			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://wuzei.or.td/js/nk.js"
+		},
+
 { "key": "挂影院", "name": "💠听听影院", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [  "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "电影解说", "足球", "篮球", "网球", "斯诺克", "预告片" ] }, 
 {"key":"drpy_js_影渣渣","name":"♻️影渣渣","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/172545/%E5%A4%8D%E4%BB%B6%20drpy2.min.js?sign=DbD6J6cD1ulkdzxVGXPfEQBTnBzmV8X810P07f7cVak%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/172546/%E5%A4%8D%E4%BB%B6%20%E5%BD%B1%E6%B8%A3%E6%B8%A3.js?sign=FtkrE9H8E_gVRcFx-WTyWO8d_wC9rPm8X5s0s46iOao%3D%3A0"},
     {
