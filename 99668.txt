@@ -23,9 +23,6 @@
         },
 
 
-        {
-            "name": "🛰时光机源",
-            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/master_stable_github_1.json"  },
 
  {
             "name": "🍚饭太硬好",
@@ -34,6 +31,10 @@
 {
             "name": "💠小重楼楼",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+        },
+{
+            "url": "http://肥猫.live/",
+            "name": "🐼肥猫接口"
         },
 
 {
@@ -83,10 +84,6 @@
             "url": "https://cf.weixine.net/ysc.json"
         },
 
-{
-            "name": "🥘集多影视",
-            "url": "http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"
-        },
 
   {
             "name": "💧高山流水",
@@ -97,11 +94,6 @@
             "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
         },  
    
-
-  {
-            "name": "💦小桥流水",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-        },  
 
  {
             "url": "https://agit.ai/376242575/line1/raw/branch/master/line1.json",
@@ -117,7 +109,7 @@
             "name": "🐻沃影主站"
         },
         {
-            "url": "http://刚刚.live/猫",
+            "url": "http://肥猫.live/",
             "name": "🐼肥猫接口"
         },
 {
