@@ -56,6 +56,10 @@
             "name": "🏘天薇视讯",
             "url": "http://tvkj.top/DC/tvys/svip.json"
         },
+{
+            "name": "🚸文坤影视",
+            "url": "http://qrh.yimkj.cn/wk/文坤.json"
+        },
 
 
 
