@@ -6,10 +6,6 @@
 "      },
    
  
-{
-            "name": "🦉夜猫接口",
-            "url": "https://download.kstore.space/download/3313/app/ymzn"
-        },
         {
             "name": "🎎最全短剧",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
