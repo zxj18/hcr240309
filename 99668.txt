@@ -38,6 +38,15 @@
             "url": "http://8.210.232.168/xc.json"
         },
 {
+            "name": "🐭喵影视源",
+            "url": "http://meowtv.cn/tv"
+        },
+{
+            "name": "🐳万达广场",
+            "url": "http://sinopacifichk.com/box/56.txt"
+        },
+
+{
             "name": "🌈最新4k",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/4k.json"
         },
