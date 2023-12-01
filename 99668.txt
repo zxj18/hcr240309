@@ -10,6 +10,26 @@
             "name": "🍉采集无敌",
             "url": "https://codeberg.org/rghy/njyy/raw/branch/main/cjz.json"
         },
+       {
+            "name": "🚌码点干货",
+            "url": "https://gitee.com/gagakuai/tvbox/raw/master/yyds.json"
+        },
+    {
+            "name": "🎁盒子里面",
+            "url": "https://hezi.tvboxhz.top/TVBOX盒子"
+        },
+    {
+            "name": "❤欧歌在线️",
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
+        },
+    {
+            "name": "🦊酷玩影视",
+            "url": "http://qrh.yimkj.cn/kw/酷玩.json"
+        },
+    {
+            "name": "🙈车妹影视",
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"
+        },
 
 
 {
