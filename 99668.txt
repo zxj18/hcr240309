@@ -185,7 +185,7 @@
         }, 
 
 {
-            "name": "🎯徐哥影视",
+            "name": "🎉刚好影视",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/xu.json"
         },
 
@@ -239,10 +239,7 @@
         },
 
 
-        {
-            "name": "🍭徐徐影视",
-            "url": "http://xutv.hz.cz/tv/xu106.txt"
-        },
+ 
         
         {
             "name": "🍱栩栩如生",
@@ -286,7 +283,7 @@
             "url": "https://神器每日推送.tk/pz.json"
         },
         {
-            "name": "🍑水蜜桃桃",
+            "name": "📤丰富多彩",
             "url": "http://shixiong.alwaysdata.net/m.json"
  },
 
