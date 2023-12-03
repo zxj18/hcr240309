@@ -1,4 +1,18 @@
 ﻿{"urls":[
+{
+            "name": "🚀爱看短剧",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
+        },
+       {
+            "name": "🚀采集大全",
+            "url": "https://codeberg.org/rghy/njyy/raw/branch/main/cjz.json"
+        },
+       {
+            "name": "🚀码点干货",
+            "url": "https://gitee.com/gagakuai/tvbox/raw/master/yyds.json"
+        },
+ 
+
    {
       "url": "http://tvkj.top/DC/tvys/svip.json",
       "name": "🚀天微影视VIP线🚀"
