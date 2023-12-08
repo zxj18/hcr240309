@@ -7,6 +7,11 @@
             "name": "🚀采集大全",
             "url": "https://codeberg.org/rghy/njyy/raw/branch/main/cjz.json"
         },
+{
+            "name": "🚀春溢天下",
+            "url": "https://wds.ecsxs.com/230989.json"
+        },
+
        {
             "name": "🚀码点干货",
             "url": "https://gitee.com/gagakuai/tvbox/raw/master/yyds.json"
