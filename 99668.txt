@@ -1,6 +1,11 @@
 ﻿{"urls":[
 {
-            "name": "🚀爱看短剧",
+            "name": "🚀综合大全",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+        },
+
+{
+            "name": "🚀短剧大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
        {
