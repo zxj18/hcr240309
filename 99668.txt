@@ -52,7 +52,7 @@
  {"name": "🍭阿里玩偶","url": "http://qrh.yimkj.cn/al/阿里.json"},
  {"name": "🍭教育专线","url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt"},
  {"name": "🍭少儿益智","url": "http://qrh.yimkj.cn/se/少儿.json"},
-
+{"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name": "🏰 欧歌家庭"}, {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌","name": "💚欧歌阿里"}, {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌","name": "💖欧歌学习"},
 {
             "url": "http://肥猫.live/",
             "name": "🐼肥猫接口"
