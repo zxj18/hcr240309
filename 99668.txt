@@ -63,7 +63,7 @@
             "url": "http://meowtv.cn/tv"
         },
 {
-            "name": "🐳万达广场",
+            "name": "🍇万达广场",
             "url": "http://sinopacifichk.com/box/56.txt"
         },
 
@@ -159,8 +159,8 @@
             "url": "https://wds.ecsxs.com/230989.json"
         },
      {
-            "name": "🍀春盈接口",
-            "url": "https://codeberg.org/rghy/njyy/raw/branch/main/xx.json"
+            "name": "🐯老虎专线",
+            "url": "https://codeberg.org/jgfx/1024/raw/branch/main/1102.json"
         },
     {
             "name": "🍄cat满接口",
