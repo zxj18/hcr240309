@@ -196,6 +196,21 @@
       "jar": "./lib/dj4.jar",
       "ext": "./lib/VS影院.json"
     },
+
+    {
+      "key": "csp_XBPQ_aoaotv",
+      "name": "💙短剧十四",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+      },
+
+
 {
 			"key": "zy_金鹰资源",
 			"name": "🔰金鹰",
