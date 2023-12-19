@@ -38,25 +38,7 @@
         "changeable": 0,
         "ext": "./lib/bili.json"
     }, 
-   {	"key": "AList",
-			"name": "📀AList网盘",
-			"type": 3,
-			"api": "csp_AList",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "https://pan.shangui.cc/f/n0NNF2/alist00.json",
-			"jar": "https://pan.shangui.cc/f/Kz7AU6/custom_spider.jar"
-		},
-    {
-      "key": "alist",
-      "name": "🐥小鸭网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://codeberg.org/rghy/njyy/raw/branch/main/lib/alist.json"
-    }, 
+    
 {
             "key": "火狐",
             "name": "🔥火狐采集",
@@ -85,6 +67,18 @@
                 "伦理片"
             ]
         },
+
+    {
+      "key": "alist",
+      "name": "🐥小鸭网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://codeberg.org/rghy/njyy/raw/branch/main/lib/alist.json"
+    },
+
         {
             "key": "红牛资源",
             "name": "🐂红牛影视",
@@ -184,26 +178,6 @@
     "手动嗅探视频链接过滤词": ".html#?url=http"
     }
 },
-{	"key": "AList",
-			"name": "📀AList网盘",
-			"type": 3,
-			"api": "csp_AList",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "https://pan.shangui.cc/f/n0NNF2/alist00.json",
-			"jar": "https://pan.shangui.cc/f/Kz7AU6/custom_spider.jar"
-		},
-    {
-      "key": "alist",
-      "name": "🐥小鸭网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://codeberg.org/rghy/njyy/raw/branch/main/lib/alist.json"
-}
-
 {
             "key": "js_电影先生",
             "name": "🤵电影先生",
