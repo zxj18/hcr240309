@@ -11,7 +11,7 @@
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
        {
-            "name": "🍉采集大全",
+            "name": "🍳看剧接口大全",
             "url": "https://codeberg.org/rghy/njyy/raw/branch/main/cjz.json"
         },
   
