@@ -1979,20 +1979,7 @@
       "api": "https://pan.shangui.cc/f/bapKc1/apiv1195drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/XGjwfd/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js"
     },
-    {
-      "key": "drpy_js_斗鱼直播",
-      "name": "🦈斗鱼直播  [js]",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/bapKc1/apiv1195drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/mqZGcb/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js"
-    },
-     {
-      "key": "drpy_js_虎牙直播",
-      "name": "🐯 直播 | 虎牙[js]",
-      "type": 3,
-      "api": "https://pan.shangui.cc/f/bapKc1/apiv1195drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/xqy3fZ/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js"
-    },
+  
     {
       "key": "csp_鹅直播",
       "name": "🏀企鹅直播",
