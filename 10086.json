@@ -1417,7 +1417,27 @@
 
  {      "key": "奇虎资源",      "name": "🦁奇虎",      "type": 1,      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",      "playUrl": "",      "searchable": 1,      "quickSearch": 1    },
 {"key":"drpy_js_影渣渣","name":"♻️影渣","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/172545/%E5%A4%8D%E4%BB%B6%20drpy2.min.js?sign=DbD6J6cD1ulkdzxVGXPfEQBTnBzmV8X810P07f7cVak%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/172546/%E5%A4%8D%E4%BB%B6%20%E5%BD%B1%E6%B8%A3%E6%B8%A3.js?sign=FtkrE9H8E_gVRcFx-WTyWO8d_wC9rPm8X5s0s46iOao%3D%3A0"},
+{"key":"4KHDR","name":"🧲世界磁力┃慎用","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/4khdr.js"},
+{"key":"新6V","name":"🧲新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 
+{"key":"csp_Dm84","name":"🚌动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Ying","name":"💮樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
+{"key":"csp_Yj1211","name":"📽️网红┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable":1},
+{"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
+
+
+{"key":"88js","name":"⚽ 88┃看球","type":3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_qiumi","name":"⚽ Jrs┃球迷","type": 3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_310直播","name":"⚽310┃看球","type":3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./lib/企鹅直播.json"},
+{"key":"MV_vod","name":"🎶明星┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
+{"key":"酷奇js","name":"🎤酷奇┃MV","type": 3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/虎牙直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/斗鱼直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"csp_聚短视频","name":"📽️聚短┃视频","type":3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/短视频.js","searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"./lib/apiv683drpy2.min.js","ext":"./lib/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
 {
     "key":"drpy_js_虎牙",
     "name":"🚧虎牙直播",
