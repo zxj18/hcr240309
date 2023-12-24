@@ -17,7 +17,7 @@
   
         {
             "name": "🎎观影大全（备用）",
-            "url": "https://agit.ai/hu/sj/raw/branch/master/cjz.json"
+            "url": "https://agit.ai/hu/sj/raw/branch/master/cjz.json"},
     {
             "name": "🎁盒子里面",
             "url": "https://hezi.tvboxhz.top/TVBOX盒子"
