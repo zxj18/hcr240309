@@ -10,13 +10,9 @@
             "name": "🎎短剧大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
-       {
-            "name": "🍳观影大全",
-            "url": "https://codeberg.org/rghy/njyy/raw/branch/main/cjz.json"
-        },
   
         {
-            "name": "🎎观影大全（备用）",
+            "name": "👭观影大全",
             "url": "https://agit.ai/hu/sj/raw/branch/master/cjz.json"},
     {
             "name": "🎁盒子里面",
