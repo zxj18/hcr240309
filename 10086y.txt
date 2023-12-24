@@ -1,6 +1,7 @@
 ﻿{
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;cf00cc8baef423e51187750ac973417d",
- 
+   "spider": "./lib/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
 { "key": "横院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
@@ -12,7 +13,13 @@
       "api": "./lib/apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
-    
+ {
+      "key": "影探",
+      "name": " 🕵┃影探┃影视",
+      "type": 3,
+      "api": "./lib/apiv23drpy2.min.js",
+      "ext": "./lib/yt.js"
+    },   
   {"key": "dr_ikanbot","name": "🌸爱看机器人","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},  
     
     {
