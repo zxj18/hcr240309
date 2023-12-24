@@ -6,9 +6,14 @@
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
-            "name": "👯观影大全",
+            "name": "💎观影大全",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
+        },
+        {
+            "name": "🍅观影大全备用",
             "url": "https://agit.ai/hu/sj/raw/branch/master/采集站.json"
         },
+
 
 
         {
