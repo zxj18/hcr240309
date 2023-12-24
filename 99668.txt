@@ -5,15 +5,19 @@
             "name": "🔰综合大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
+        {
+            "name": "👯观影大全",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/采集站.json"
+        },
+
 
         {
             "name": "🎎短剧大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
+
   
-        {
-            "name": "👭观影大全",
-            "url": "https://agit.ai/hu/sj/raw/branch/master/cjz.json"},
+      
     {
             "name": "🎁盒子里面",
             "url": "https://hezi.tvboxhz.top/TVBOX盒子"
