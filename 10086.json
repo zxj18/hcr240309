@@ -153,6 +153,28 @@
       "filterable": 1,
       "ext": "https://codeberg.org/rghy/njyy/raw/branch/main/lib/alist.json"
     },
+{
+      "key": "爱迪",
+      "name": "🍣欧美电视剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+{
+			"key": "lurenjia",
+			"name": "💎超清观看",
+			"type": 1,
+			"api": "https://www.dytt996.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
+        },
+
 
         {
             "key": "红牛资源",
@@ -169,6 +191,8 @@
                 "动漫"
             ]
         },
+{      "key": "至圣云(官）",      "name": "🍓樱桃短剧",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
+
 
 {
             "key": "XBPQ_葡萄",
@@ -1619,7 +1643,6 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar"
     },
 {"key":"csp_MYYS","name":"🐜蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
-{"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 
 {"key":"drpy_js_六QQ月","name":"🐵 大师兄电影 [js]","type":3,"api":"https://pan.shangui.cc/f/0b8Ghj/apiv19drpy2.min.js","ext":"https://pan.shangui.cc/f/413yS0/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js","playerType":"2"},
@@ -2288,7 +2311,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0Y29kZS5jb20vbmp5eS9qeS9yYXcvbWFzdGVyL25qeXkudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvaGNyL2hjci9yYXcvYnJhbmNoL2h1L25qeXkudHh0"
           ]
         }
       ]
