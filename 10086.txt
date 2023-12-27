@@ -9,12 +9,13 @@
 {"key":"橘子","name":"🍊橘子APP","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
 {
       "key": "好趣网",
-      "name": "🇹┃好趣网┃直播",
+      "name": "🇹好趣网直播",
       "type": 3,
       "api": "./lib/apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
-    
+    {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
   {"key": "dr_ikanbot","name": "🌸爱看机器人","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},  
     
     /*{
@@ -329,15 +330,38 @@
         "影视解说"
       ]
     },
-{"key": "js_nk",
-			"name": "🌈耐看影视",
-			"type": 3,
-			"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js",
+{
+			"key": "zy_金鹰资源",
+			"name": "🔰金鹰影视",
+			"type": 1,
+			"api": "https://jyzyapi.com/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://wuzei.or.td/js/nk.js"
-		},
+			"categories": [
+				"欧美剧",
+				"香港剧",
+				"韩剧",
+				"日剧",
+				"马泰剧",
+				"动作片",
+				"爱情片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"动漫",
+				"内地剧",
+				"动画片",
+				"中国动漫",
+				"日本动漫",
+				"欧美动漫",
+				"综艺",
+				"台湾剧",
+				"体育赛事"
+			]
+},
 
 { "key": "挂影院", "name": "💠听听影院", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [  "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "电影解说", "足球", "篮球", "网球", "斯诺克", "预告片" ] }, 
 /*{"key":"drpy_js_影渣渣","name":"♻️影渣渣","type":3,"api":"http://52bsj.vip:81/api/v3/file/get/172545/%E5%A4%8D%E4%BB%B6%20drpy2.min.js?sign=DbD6J6cD1ulkdzxVGXPfEQBTnBzmV8X810P07f7cVak%3D%3A0","ext":"http://52bsj.vip:81/api/v3/file/get/172546/%E5%A4%8D%E4%BB%B6%20%E5%BD%B1%E6%B8%A3%E6%B8%A3.js?sign=FtkrE9H8E_gVRcFx-WTyWO8d_wC9rPm8X5s0s46iOao%3D%3A0"},*/
@@ -668,38 +692,6 @@
             "filterable": 1
         },	
 {
-			"key": "zy_金鹰资源",
-			"name": "🔰金鹰",
-			"type": 1,
-			"api": "https://jyzyapi.com/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"欧美剧",
-				"香港剧",
-				"韩剧",
-				"日剧",
-				"马泰剧",
-				"动作片",
-				"爱情片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"动漫",
-				"内地剧",
-				"动画片",
-				"中国动漫",
-				"日本动漫",
-				"欧美动漫",
-				"综艺",
-				"台湾剧",
-				"体育赛事"
-			]
-},
-{
       "key": "畅梦",
       "name": "🍫畅梦",
       "type": 3,
@@ -849,19 +841,8 @@
 				"欧美综艺"
 			]
 		},
-{"key": "dr_ikanbot","name": "🌺机器","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 
   
-  {
-            "key": "js_电影先生",
-            "name": "🤵先生",
-            "type": 3,
-            "api": "./lib/apiv569apiv15drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/电影先生.js"
-        },  
 
 		{
 			"key": "csp_xml_天空",
