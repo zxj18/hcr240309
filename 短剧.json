@@ -8,15 +8,9 @@
  
     { "key": "横版影院", "name": "❤️短剧一
     ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
-{
-            "key": "短剧1xyq1",
-            "name": "🧡短剧二",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/168079/%E8%A7%84%E5%88%99%E5%90%8D_%20_%E9%A6%99%E9%9B%85%E6%83%85%E6%A8%A1%E6%9D%BF_,.txt?sign=3aG9J_c2ZOrR0welihMao35c-9dpWB7h_vu5Rlc9Hbc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/168078/Yoursmile.zip?sign=R6qPnqaZO1r9RiyTlEuDIna2v13tH-Cu_J9FXAaKgU0%3D%3A0"},
+{      "key": "至圣云(官）",      "name": "💖短剧二",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
+
+
    {
             "key": "csp_djtv",
             "name": "💚短剧三",
@@ -212,12 +206,14 @@
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
     }  },
 {
-      "key": "短剧one",
-      "name": "💛短剧十五",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "https://codeberg.org/rghy/njyy/raw/branch/main/lib/短剧1.json"
-    },
+            "key": "短剧1xyq1",
+            "name": "🧡短剧十五",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://52bsj.vip:81/api/v3/file/get/168079/%E8%A7%84%E5%88%99%E5%90%8D_%20_%E9%A6%99%E9%9B%85%E6%83%85%E6%A8%A1%E6%9D%BF_,.txt?sign=3aG9J_c2ZOrR0welihMao35c-9dpWB7h_vu5Rlc9Hbc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/168078/Yoursmile.zip?sign=R6qPnqaZO1r9RiyTlEuDIna2v13tH-Cu_J9FXAaKgU0%3D%3A0"},
     {
       "key": "532短剧",
       "name": "💙短剧十六",
@@ -233,17 +229,6 @@
    "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
     },
 
-   {
-        
-   "key": "csp_短剧",
-      "name": "💘短剧十八",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/短剧网1.json"
-    },
 
 
 {
