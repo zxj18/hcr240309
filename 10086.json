@@ -2,6 +2,7 @@
 "spider":"./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;3a1219034ed657f925c606543689b8cf",
 "spider": "./lib/dj0.jar",
 
+	"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 	"sites": [
@@ -14,7 +15,8 @@
       "api": "./lib/apiv43drpy2.min.js",
       "ext": "./lib/好趣网.js"
     },
-    
+    {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
   {"key": "dr_ikanbot","name": "🌸爱看机器人","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},  
     
     /*{
@@ -2289,8 +2291,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvaGNyL2hjci9yYXcvYnJhbmNoL2h1L25qeXkudHh0"
-          ]
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2h1L3NqL3Jhdy9icmFuY2gvbWFzdGVyL25qeXkudHh0"          ]
         }
       ]
     }
