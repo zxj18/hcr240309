@@ -75,7 +75,7 @@
 
 {
 			"key": "lurenjia",
-			"name": "🏆超清秒看",
+			"name": "🍑超清秒看",
 			"type": 1,
 			"api": "https://www.dytt996.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
@@ -83,8 +83,12 @@
 			"filterable": 1,
 			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
         },
+/*{"key":"zzdj","name":"🥑种子短剧","type":1,"api":"http://zzdj.cc/api.php/provide/vod"},*/
 
-    {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"bydj","name":"🥑粽子短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"class=\"lazy lazyloaded\"&&</a>","播放数组":"<div class=\"module-blocklist&&</div></div>","播放列表":"<a&&</a>","播放标题":"<span>&&</span>","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+pic-text text-right\">&&</b>","播放链接":"href=\"&&\"","跳转播放链接":"varurlDecode(var player_*url\":\"&&\")","搜索数组":"class=\"lazy lazyload\"&&</a>","搜索图片":"data-src=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索url":"https://duanju.one/vodsearch/{wd}-------------.html","分类url":"https://duanju.one/vodtype/{cateId}-{area}--{class}-------{catePg}-{year}.html[https://duanju.one/vodtype/{cateId}]","分类":"抖剧&快剧&都市&穿越&逆袭&虐恋&重生&其他","分类值":"1&2&3&26&25&27&28&32"}},
+
+
+  /*  {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},*/
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.aueteys.com/"},
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_MYYS","name":"🐜蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
@@ -207,6 +211,19 @@
 			"ext": "https://pan.shangui.cc/f/n0NNF2/alist00.json",
 			"jar": "https://pan.shangui.cc/f/Kz7AU6/custom_spider.jar"
 		},
+    {"key":"短剧ne","name":"🚦快乐短剧","type":3,"api":"csp_Panda","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb","ext":"https://d.kstore.space/download/6296/json/短剧.json"},  
+ {
+			"key": "lurenjia",
+			"name": "🔥超清1080",
+			"type": 1,
+			"api": "https://www.dytt996.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
+        },
+{"key":"云播","name":"🍧云播影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"影片类型":"分类：&&主演","导演":"导演：</span>&&</p>","主演":"主演：</span>&&</p>","简介":"class=\"sketch content\">&&</span>","数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词":".m3u8#mp4","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<","播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+
 
    /* {
       "key": "alist",
@@ -245,6 +262,22 @@
                 "动漫"
             ]
         },
+{"key":"纽约影视","name":"🇺🇸纽约影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","图片":"data-src=\"&&\"","线路数组":"a class=\"swiper-slide&&</a>[排序:国内节点>国内专线>\u516c\u5b50\u4e13\u5c5e-2>\u516c\u5b50\u4e13\u5c5e-3]","\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e-+>&&</span>","播放数组":"anthology-list-play&&</ul>","搜索模式":1,"搜索url":"https://nycvod.com/vodsearch/{wd}----------{pg}---.html","搜索标题":"alt=\"&&\"","搜索图片":"data-src=\"&&\"","分类url":"https://nycvod.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$28#电视剧$24#综艺$31#动漫$26","免嗅":"1"}},
+
+
+{
+      "key": "畅梦",
+      "name": "🍫畅梦梦剧",
+      "type": 3,
+      "api": "./lib/apiv402drpy2.min.js",
+      "ext": "./lib/changmeng.js"
+    },
+{"key":"喝茶影院","name":"🍵喝茶影院","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","线路数组": "<h3&&</h3>[排序:公子专用2>公子专用1]",
+"线路标题":"公子专用","分类":"电影$1#电视剧$2#综艺$4#动漫$3","分类url":"https://www.jm332.com/vod/type/id/area/{area}/class/{class}/{cateId}/page/{catePg}/year/{year}.html"}},
+
+{"key":"HLTV","name": "☯️华乐影院","type": 3,"api": "csp_XBPQ","ext": {"图片":"data-src=\"&&\"","线路标题":"</i>&nbsp;&&</a>","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","分类url":"https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}},
+{"key":"zy_鸡婆","name":"🐣鸡婆采集","type":1,"api":"https://www.jipo.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
 {      "key": "至圣云(官）",      "name": "🍓樱桃短剧",      "type": 1,      "api": "http://www.ttkx.site/api.php/provide/vod/"},
 
 
@@ -437,7 +470,7 @@
         "综艺"
       ]
     },
-{"key":"橘子","name":"🍊橘子APP","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
+/*{"key":"橘子","name":"🍊橘子APP","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},*/
     {
       "key": "百度资源",
       "name": "🚢百度",
