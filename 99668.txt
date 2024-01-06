@@ -7,11 +7,11 @@
         },
  
  {
-            "name": "👭综合大全接口二",
+            "name": "🐳综合大全接口二",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
-            "name": "🍳综合大全接口三",
+            "name": "🍳玩偶4k酷云七七专线",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.txt"
         },
         {
