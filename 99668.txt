@@ -2,38 +2,39 @@
     "urls": [
 
    {
-            "name": "👭综合大全接口一",
+            "name": "🍱综合大全接口一",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
         },
  
  {
-            "name": "🐳综合大全接口二",
+            "name": "🚒综合大全接口二",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
-            "name": "🎬玩偶4k酷云七七专线",
+            "name": "🎬玩偶4K酷云七七专线",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.txt"
         },
     {
-            "name": "🇨🇳央视大全专线",
+            "name": "🇨🇳央视大全专线🇨🇳",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520zg.txt"
         },
 
         {
-            "name": "🛰综合大全备用👇",
+            "name": "🍫综合大全备用线路👇",
             "url": "https://raw.gitcode.com/njyy/nj/raw/master/520.json"
         },
 
 
 
         {
-            "name": "🎎短剧大全",
+            "name": "🎎短剧大全专线",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
+ {"name": "🐳看动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
 
   
     {
-            "name": "🎎短剧大全备用",
+            "name": "🍡短剧十四源大全",
             "url": "https://biu.codered.cloud/wp-content/uploads/2023/11/你的短剧接口.bmp"
         },  
     {
@@ -105,8 +106,6 @@
             "name": "🥃业余打發",
             "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
         },
- {"name": "🐳动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
-
 {
       "name": "🌹恒星接口",
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"
