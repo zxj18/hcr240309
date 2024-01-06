@@ -11,9 +11,14 @@
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
-            "name": "🍳玩偶4k酷云七七专线",
+            "name": "🎬玩偶4k酷云七七专线",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.txt"
         },
+    {
+            "name": "🇨🇳央视大全专线",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520zg.txt"
+        },
+
         {
             "name": "🛰综合大全备用👇",
             "url": "https://raw.gitcode.com/njyy/nj/raw/master/520.json"
