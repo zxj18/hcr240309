@@ -1,17 +1,22 @@
 ﻿{
     "urls": [
-    
+
+   {
+            "name": "👭综合大全接口一",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
+        },
+ 
  {
-            "name": "💢综合大全",
+            "name": "👭综合大全接口二",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
-            "name": "🍳观影大全",
-            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
+            "name": "🍳综合大全接口三",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520.txt"
         },
         {
-            "name": "🍧观影大全备用",
-            "url": "http://530.my3v.work/1.json"
+            "name": "🛰综合大全备用👇",
+            "url": "https://raw.gitcode.com/njyy/nj/raw/master/520.json"
         },
 
 
@@ -22,7 +27,10 @@
         },
 
   
-      
+    {
+            "name": "🎎短剧大全备用",
+            "url": "https://biu.codered.cloud/wp-content/uploads/2023/11/你的短剧接口.bmp"
+        },  
     {
             "name": "🎁盒子里面",
             "url": "https://hezi.tvboxhz.top/TVBOX盒子"
