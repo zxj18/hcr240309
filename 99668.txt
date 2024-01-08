@@ -2,12 +2,12 @@
     "urls": [
 
    {
-            "name": "🍱综合大全",
+            "name": "🌺综合大全",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
         },
  
  {
-            "name": "🚒综合大全",
+            "name": "🌹总合大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
@@ -30,8 +30,7 @@
             "name": "🎎短剧大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
- {"name": "🐳动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
-
+ 
   
     {
             "name": "🍡短剧十四",
@@ -41,12 +40,20 @@
             "name": "🍚饭太硬好",
             "url": "http://饭太硬.top/tv"
         },
- {"name": "🎧娱乐专线","url":"https://aoki.fun/tvbox/娱乐.json
+{"name": "🦊 青木1线","url":"http://530.my3v.work/tvbox/微风主线/微风主线.json
 "},
- {"name": "🏋🏻体育专线","url":"https://aoki.fun/tvbox/体育.json
+ {"name": "🦊 青木2线","url":"http://530.my3v.work/tvbox/微风辅线/微风辅线.json
 "},
- {"name": "🐸少儿专线","url":"https://aoki.fun/tvbox/教育.json
+ {"name": "🎧娱乐专线","url":"http://530.my3v.work/tvbox/微风娱乐/微风娱乐.json
 "},
+{"name": "🐳动漫专线","url":"http://530.my3v.work/tvbox/动漫专线/动漫专线.json
+"},
+ {"name": "🏋🏻体育专线","url":"http://530.my3v.work/tvbox/微风体育/微风体育.json
+"},
+ {"name": "🐸少儿专线","url":"http://530.my3v.work/tvbox/微风教育/微风教育.json
+"},
+{"name": "🍄 吾爱专线","url":"http://530.my3v.work/tvbox/微风吾爱/微风吾爱.json"},
+
 {
             "name": "❤️CatT4口",
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
