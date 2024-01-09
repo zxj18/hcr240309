@@ -7,13 +7,21 @@
         },
  
  {
-            "name": "🌹总合大全",
+            "name": "💐大全接口",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
             "name": "🎬看玩偶4K",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.txt"
         },
+
+     {
+            "name": "🍄华影视TV",
+            "url": "http://host407776532.s1169.pppf.com.cn/hys/hysjk12.json"
+        },
+
+
+
     {
             "name": "🇨🇳央视专线",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520zg.txt"
