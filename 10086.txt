@@ -4,14 +4,6 @@
 
 	"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
-{
-      "name": "live",
-      "type": 0,
-      "url": "./lib/1704599532.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-    }
-  ],
-
 
 	"sites": [
 { "key": "横院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
@@ -2408,6 +2400,18 @@
 		}
 	],
 
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2h1L2hjci9yYXcvYnJhbmNoL21hc3Rlci8xNzA0NTk5NTMyLnR4dA=="          ]
+        }
+      ]
+    }
+  ],
 
 	"parses": [{
 			"name": "解析聚合",
