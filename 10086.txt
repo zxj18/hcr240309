@@ -1,7 +1,7 @@
 ﻿{
 "spider":"./lib/饭太硬.jar",
 
-"spider": "./lib/dj0.jar",
+
 
 	"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
