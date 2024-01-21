@@ -4,6 +4,14 @@
 
 	"spider": "./lib/Yoursmile.jar;md5;30A6D0E99DE3B7FEB1B8A03370516B57",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+{
+      "name": "live",
+      "type": 0,
+      "url": "./lib/1704599532.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+    }
+  ],
+
 
 	"sites": [
 { "key": "横院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
@@ -73,7 +81,7 @@
 		},
 {
       "key": "js_耐菲",
-      "name": "🥝┃耐菲┃影视",
+      "name": "🥝耐菲影视",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
@@ -84,7 +92,7 @@
 
 {
       "key": "js_6V",
-      "name": "✡️┃六维┃磁力",
+      "name": "✡️六维磁力",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
@@ -94,7 +102,7 @@
     },
     {
       "key": "js_磁力熊",
-      "name": "🐻‍┃贝尔┃磁力",
+      "name": "🐻贝尔磁力",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
@@ -104,7 +112,7 @@
     },
     {
       "key": "js_酷吧",
-      "name": "😎┃酷吧┃磁力",
+      "name": "😎酷吧磁力",
       "type": 3,
       "api": "./lib/apiv15drpy2.min.js",
       "searchable": 1,
@@ -114,7 +122,7 @@
     },
     {
       "key": "XYQH_电影港",
-      "name": "🛳┃港口┃磁力",
+      "name": "🛳港口磁力",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
