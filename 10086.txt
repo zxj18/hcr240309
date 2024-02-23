@@ -1,9 +1,15 @@
 ﻿{
 "spider":"./lib/饭太硬.jar",
+"spider": "./lib/okpng.json;md5;d9fb6af908feafe4a4c300dab10be9a4",
+
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 	"sites": [
 { "key": "横院", "name": "🍓横版短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
+{"key":"阿里合集","name":"🎎阿里云盘集","type": 3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext": {
+      "token": "file://TV/ali_token.txt",
+      "share": "file://TV/阿里集合.json"
+    }, "style":{"type":"list"}, "timeout": 30},
  {
             "key": "996",
             "name": "🎆蓝色秒播",
