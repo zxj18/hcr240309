@@ -1,18 +1,17 @@
 ﻿{
     "urls": [
 
-  
-        {
-            "name": "🦜金鹰影视主接口源",
-            "url": "http://530.my3v.work/1.json"
-        },
-        {
-            "name": "🦊影视综合接口",
-            "url": "http://hucongrong.web3v.work/10086.json"
-        },
-
    {
-            "name": "🚩阿里网盘码3353",
+            "name": "🍱金鹰接口",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
+        },
+ 
+ {
+            "name": "🥝大全接口",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+        },
+{
+            "name": "🚩一个网盘",
             "url": "http://550.3vcn.work/ok/ok.json"
         },
     {
@@ -26,27 +25,24 @@
             "name": "🎬看玩偶4K",
             "url": "http://530.my3v.work/520.json"
         },
+
     {
             "name": "🇨🇳央视专线",
-            "url": "http://530.my3v.work/520zg.json"
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520zg.txt"
         },
 
         {
-            "name": "🍫接口备用👇",
+            "name": "🍫大全备用👇",
             "url": "https://raw.gitcode.com/njyy/nj/raw/master/520.json"
-        },
-{
-            "name": "🐠华影视TV",
-            "url": "http://host407776532.s1169.pppf.com.cn/hys/hysjk12.json"
         },
 
 
 
         {
             "name": "🎎短剧大全",
-            "url": "http://hucongrong.web3v.work/短剧.json"
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
-
+ {"name": "🐳动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
 
   
     {
@@ -57,21 +53,12 @@
             "name": "🍚饭太硬好",
             "url": "http://饭太硬.top/tv"
         },
- {"name": "🦊 青木1线","url":"http://530.my3v.work/tvbox/微风主线/微风主线.json
+ {"name": "🎧娱乐专线","url":"https://aoki.fun/tvbox/娱乐.json
 "},
- {"name": "🦊 青木2线","url":"http://530.my3v.work/tvbox/微风辅线/微风辅线.json
+ {"name": "🏋🏻体育专线","url":"https://aoki.fun/tvbox/体育.json
 "},
- {"name": "🎧娱乐专线","url":"http://530.my3v.work/tvbox/微风娱乐/微风娱乐.json
+ {"name": "🐸少儿专线","url":"https://aoki.fun/tvbox/教育.json
 "},
-{"name": "🐳动漫专线","url":"http://530.my3v.work/tvbox/动漫专线/动漫专线.json
-"},
- {"name": "🏋🏻体育专线","url":"http://530.my3v.work/tvbox/微风体育/微风体育.json
-"},
- {"name": "🐸少儿专线","url":"http://530.my3v.work/tvbox/微风教育/微风教育.json
-"},
-{"name": "🍄 吾爱专线","url":"http://530.my3v.work/tvbox/微风吾爱/微风吾爱.json"},
-
-{"name": "🍄 华影视","url":"http://530.my3v.work/tvbox/华影视/华影视.json"},
 {
             "name": "❤️CatT4口",
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
@@ -106,7 +93,7 @@
 
 
 
-
+ 
  {
       "url": "http://tvkj.top/DC/dd/tvkj/svip.json",
       "name": "🚦多多家庭"
@@ -121,8 +108,6 @@
  {"name": "🍭教育专线","url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt"},
  {"name": "🍭少儿益智","url": "http://qrh.yimkj.cn/se/少儿.json"},
 {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name": "🏰 欧歌家庭"}, {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌","name": "💚欧歌阿里"}, {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌","name": "💖欧歌学习"},
-
-
 {
             "name": "🐭喵影视源",
             "url": "http://meowtv.cn/tv"
@@ -149,8 +134,6 @@
             "name": "🥃业余打發",
             "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
         },
- {"name": "🐳动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
-
 {
       "name": "🌹恒星接口",
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"
@@ -219,10 +202,6 @@
             "url": "http://qrh.yimkj.cn/qrh/千软汇.json",
             "name": "🔱千软汇聚"
         },
-{
-            "name": "🌿春溢天下",
-            "url": "https://wds.ecsxs.com/230989.json"
-        },
      {
             "name": "🐯老虎专线",
             "url": "https://codeberg.org/jgfx/1024/raw/branch/main/1102.json"
@@ -281,14 +260,6 @@
 {
             "name": "🏄🏻abc影视",
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
-        },
-{
-            "name": "🛠非凡工具",
-            "url": "https://codeberg.org/jgfx/dym/raw/branch/master/master825.json"
-        },
-{
-            "name": "🌴CatT4口",
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
         },
 {
             "name": "🌿Cat接口",
@@ -427,15 +398,7 @@
             "name": "📮好人接口",
             "url": "https://xhdwc.tk/0"
         },
-      {
-            "name": "🍭影视1号接口",
-            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
-        },
- 
- {
-            "name": "♻ 影视2号接口",
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
-        },
+      
         {
             "name": "💛猫技接口",
             "url": "https://agit.ai/ddx/nmys/raw/branch/master/feimao.json"
